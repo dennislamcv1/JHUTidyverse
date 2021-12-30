@@ -1,0 +1,1147 @@
+gender,raceethnicity,state,classification,lawenforcementagency,armed
+Male,Black,GA,Death in custody,Chatham County Sheriff's Office,No
+Male,White,OR,Gunshot,Washington County Sheriff's Office,Firearm
+Male,White,HI,Struck by vehicle,Kauai Police Department,No
+Male,Hispanic/Latino,KS,Gunshot,Wichita Police Department,No
+Male,Asian/Pacific Islander,WA,Gunshot,Mason County Sheriff's Office,Firearm
+Male,White,CA,Gunshot,San Francisco Police Department,Non-lethal firearm
+Male,Hispanic/Latino,AZ,Gunshot,Chandler Police Department,Firearm
+Male,Hispanic/Latino,CO,Gunshot,Evans Police Department,Other
+Male,White,CA,Gunshot,Stockton Police Department,Knife
+Male,Black,CA,Taser,Los Angeles County Sheriff's Department,No
+Female,White,IA,Gunshot,Burlington Police Department,No
+Male,White,KS,Gunshot,Saline County Sheriff's Office,Firearm
+Male,Black,PA,Gunshot,"US Marshals Service, Pennsylvania State Police, Allegheny County Sheriff's Office",Non-lethal firearm
+Male,White,IA,Gunshot,Des Moines Police Department,Firearm
+Male,White,IL,Gunshot,Rosemont Police Department,Vehicle
+Male,Black,TX,Gunshot,Freeport Police Department,Firearm
+Male,Black,LA,Gunshot,New Orleans Police Department,Firearm
+Male,Black,NE,Death in custody,Norfolk Police Division,No
+Male,White,MT,Gunshot,Yellowstone County Sheriff's Office,No
+Male,Black,AR,Gunshot,Union County Sheriff's Office,No
+Male,White,UT,Gunshot,Salt Lake City Police Department,Other
+Male,White,UT,Gunshot,"Syracuse Police Department, Davis County Sheriff's Office",Firearm
+Male,Hispanic/Latino,TX,Gunshot,El Paso Police Department,Firearm
+Male,White,AR,Gunshot,England Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,South Gate Police Department,Firearm
+Male,Hispanic/Latino,NV,Gunshot,North Las Vegas Police Department,Firearm
+Male,White,IL,Gunshot,"Arcola Police Department, Tuscola Police Department",Firearm
+Male,White,NM,Gunshot,Albuquerque Police Department,Firearm
+Male,White,TX,Gunshot,Jourdanton Police Department,Knife
+Male,Black,MN,Gunshot,St Paul Police Department,Vehicle
+Male,White,MO,Gunshot,"St Louis County Police Department, Jefferson County Sheriff's Office, Franklin County Sheriff's Office",Vehicle
+Male,White,UT,Gunshot,West Valley City Police Department,Knife
+Male,White,TX,Gunshot,Lake Jackson Police Department,Firearm
+Male,White,NJ,Gunshot,Old Bridge Police Department,Knife
+Male,White,NY,Struck by vehicle,New York State Police,No
+Male,White,MN,Gunshot,Bloomington Police Department,Firearm
+Male,Black,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm
+Male,White,LA,Gunshot,Louisiana State Police,Firearm
+Male,Black,VA,Gunshot,Chesapeake Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Fairfield Police Department,Knife
+Male,Black,AZ,Gunshot,Scottsdale Police Department,Vehicle
+Male,Black,OK,Gunshot,Department of Veteran Affairs,Firearm
+Male,Black,CO,Gunshot,Aurora Police Department,Firearm
+Male,Unknown,CA,Gunshot,Fremont Police Department,Knife
+Male,Asian/Pacific Islander,MN,Taser,Brooklyn Center Police Department,Other
+Male,White,KY,Struck by vehicle,Stanford Police Department,No
+Male,Hispanic/Latino,TX,Gunshot,Houston Police Department,Firearm
+Male,White,TX,Gunshot,"Texas Rangers, ATF",Firearm
+Male,Black,OK,Gunshot,Muskogee Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Fort Worth Police Department,Knife
+Male,White,AZ,Gunshot,Maricopa Police Department,Firearm
+Male,White,KY,Gunshot,Kentucky State Police,Firearm
+Male,White,MA,Gunshot,Weymouth Police Department,Knife
+Male,Black,MO,Gunshot,St Louis Metropolitan Police Department,Firearm
+Male,White,CA,Gunshot,Riverside County Sheriff's Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,US Border Patrol,Firearm
+Male,White,MS,Gunshot,Mississippi Gaming Commission,Knife
+Male,White,NH,Gunshot,Derry Police Department,Firearm
+Female,White,TX,Gunshot,Longview Police Department,Knife
+Male,Black,TX,Gunshot,US Border Patrol,Non-lethal firearm
+Male,Black,FL,Gunshot,Lauderhill Police Department,Vehicle
+Male,Hispanic/Latino,TX,Gunshot,Levelland Police Department,Knife
+Male,White,TX,Gunshot,Austin Police Department,Firearm
+Male,Black,MD,Gunshot,Baltimore Police Department,Knife
+Male,White,ID,Gunshot,Rexburg Police Department,Firearm
+Male,Hispanic/Latino,CO,Gunshot,Pueblo Police Department,Firearm
+Male,Unknown,NJ,Gunshot,Winslow Police Department,Firearm
+Non-conforming,Hispanic/Latino,CO,Gunshot,Denver Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Kern County Sheriff's Office,Knife
+Male,Black,CA,Death in custody,San Francisco Sheriff's Department,No
+Male,White,MN,Gunshot,New Hope Police Department,Firearm
+Male,Native American,AZ,Gunshot,Phoenix Police Department,Vehicle
+Male,White,AZ,Gunshot,Clifton Police Department and Greenlee County Sheriff's Office,Firearm
+Male,Black,OH,Gunshot,"Columbus Division of Police, Ohio State Highway Patrol",Firearm
+Male,White,TX,Gunshot,Rosenberg Police Department,Firearm
+Male,Native American,AK,Death in custody,Anchorage Department of Corrections,No
+Male,Asian/Pacific Islander,CA,Gunshot,Stockton Police Department,Other
+Male,White,TX,Gunshot,Wise County Sheriff's Department and Texas DPS,Firearm
+Male,White,TX,Gunshot,Fort Worth Police Department,Firearm
+Male,White,OK,Gunshot,Stillwater Police Department,No
+Female,White,NE,Gunshot,Omaha Police Department,Knife
+Male,White,MT,Gunshot,Billings Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Houston County Sheriff's Department,Firearm
+Male,Black,MD,Gunshot,Baltimore County Police Department,Knife
+Male,Asian/Pacific Islander,TX,Gunshot,Harris County Attorney's Department,Firearm
+Male,White,CA,Gunshot,San Bernardino County Sheriff's Department,Firearm
+Male,White,PA,Gunshot,Hummelstown Police Department,No
+Male,White,OK,Gunshot,Oklahoma State Police,Firearm
+Male,Black,MO,Gunshot,St Louis Metropolitan Police Department,Firearm
+Male,Black,CA,Gunshot,Contra Costa Sheriff's Office,Knife
+Female,Black,CA,Gunshot,Emeryville Police Department,Firearm
+Male,White,GA,Gunshot,Douglas Police Department,Firearm
+Male,Hispanic/Latino,AZ,Gunshot,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",Firearm
+Male,Hispanic/Latino,AZ,Gunshot,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",No
+Male,Black,TN,Gunshot,Shelby County Sheriff's Department [US Marshals Service Task Force],Knife
+Male,Hispanic/Latino,FL,Gunshot,Orlando Police Department,Firearm
+Male,Black,TX,Gunshot,"Waco Police Department, McLennan County Sheriff's Office",Firearm
+Male,White,CA,Gunshot,"Corona Police Department, California Highway Patrol",Non-lethal firearm
+Male,Black,FL,Gunshot,Tallahassee Police Department,No
+Male,Hispanic/Latino,TX,Taser,Wichita County Sheriff's Office,No
+Male,White,CA,Gunshot,Riverside County Sheriff's Department,Non-lethal firearm
+Male,Black,OK,Gunshot,Oklahoma City Police Department,Firearm
+Male,White,MI,Gunshot,Kentwood Police Department and Wyoming DPS,Firearm
+Male,Black,NC,Gunshot,Gastonia Police Department,Firearm
+Male,White,TX,Gunshot,Austin Police Department,Firearm
+Female,Black,VA,Taser,Fairfax County Sheriff's Office,No
+Male,White,FL,Gunshot,Orange County Sheriff's Office,Firearm
+Male,White,TX,Gunshot,Nocona Police Department,Firearm
+Male,Black,TX,Gunshot,Dallas Police Department,Firearm
+Male,White,NY,Gunshot,Clarkstown Police Department,Firearm
+Male,Hispanic/Latino,AK,Gunshot,Anchorage Police Department,Firearm
+Male,Hispanic/Latino,WA,Gunshot,Pasco Police Department,Other
+Male,White,CO,Gunshot,Garfield County Sheriff's Office,Firearm
+Male,Black,TN,Gunshot,Memphis Police Department,Firearm
+Male,White,ME,Gunshot,Maine State Troopers and Aroostook County Sheriff's Department,Firearm
+Male,Black,CA,Gunshot,San Jose Police Department,Knife
+Male,White,AL,Gunshot,Tallapoosa County Sheriff's Department,Firearm
+Male,Hispanic/Latino,KS,Gunshot,"Kansas City KS Police Department, Kansas Highway Patrol",Firearm
+Male,White,CA,Gunshot,San Bernardino Police Department,Vehicle
+Male,White,TN,Gunshot,Carroll County Sheriff's Office,Firearm
+Male,White,PA,Gunshot,Pennsylvania State Police,Unknown
+Male,White,TX,Gunshot,Laredo Police Department,Firearm
+Male,White,UT,Gunshot,Provo Police Department,Non-lethal firearm
+Male,Black,FL,Gunshot,Miami Gardens Police Department,Other
+Male,White,OR,Gunshot,Clackamas County Sheriff's Office,Knife
+Male,White,MS,Gunshot,Iuka Police Department,Firearm
+Male,Hispanic/Latino,AZ,Gunshot,Pinal County Sheriff's Office,Knife
+Male,White,MI,Gunshot,Bay City Police Department,Firearm
+Male,White,ID,Gunshot,Boise Police Department,Firearm
+Male,White,AZ,Gunshot,Marana Police Department,Firearm
+Male,White,MA,Gunshot,Tewksbury Police Department,Non-lethal firearm
+Male,White,MI,Gunshot,Eaton County Sheriff's Office,Firearm
+Female,White,NC,Gunshot,Gastonia Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Del Rio Police Department and Val Verde County Sheriff's Office,Other
+Male,White,MO,Gunshot,Springfield Police Department,No
+Female,Black,NC,Gunshot,Charlotte-Mecklenburg Police Department,Knife
+Male,White,CA,Taser,Yuba County Sheriff's Office,No
+Male,Hispanic/Latino,TX,Gunshot,Grapevine Police Department,No
+Male,Black,AL,Gunshot,Homewood Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,"US Marshals Service, Texas Department of Criminal Justice",Firearm
+Male,White,NM,Gunshot,New Mexico State Police and US Marshals Service,Firearm
+Male,Black,OK,Taser,"Osage Nation Police Department, Osage County Sheriff's Office",No
+Male,White,IN,Gunshot,Indianapolis Metropolitan Police Department,Knife
+Male,Hispanic/Latino,GA,Gunshot,Habersham County Sheriff's Office,Firearm
+Male,White,FL,Gunshot,Palm Bay Police Department,Firearm
+Male,Black,AL,Gunshot,Millbrook Police Department,Firearm
+Male,White,GA,Gunshot,Cobb County Sheriff's Office,Knife
+Male,White,PA,Gunshot,Catasauqua Police Department,Knife
+Male,White,LA,Gunshot,Denham Springs Police Department,Firearm
+Male,White,WI,Gunshot,Green Bay Police Department,Knife
+Male,White,NE,Gunshot,Omaha Police Department,No
+Male,White,IN,Gunshot,Terre Haute Police Department,No
+Male,Black,OK,Gunshot,Oklahoma City Police Department,Vehicle
+Male,White,NV,Gunshot,Las Vegas Metro Police (Swat),Firearm
+Male,Hispanic/Latino,CA,Gunshot,San Francisco Police Department,Knife
+Female,White,GA,Gunshot,Worth County Sheriff's Office,Firearm
+Male,Hispanic/Latino,FL,Gunshot,Lakeland Police Department,Firearm
+Male,White,MS,Gunshot,Gulfport Police Department,Firearm
+Male,White,SC,Gunshot,Greenville County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Santa Ana Police Department,No
+Male,White,WA,Death in custody,Franklin County Corrections Division,No
+Male,Black,MO,Gunshot,Boone County Sheriff's Department,Firearm
+Female,White,AZ,Gunshot,Riverside County Sheriff's Department,Firearm
+Male,Black,NC,Gunshot,Tarboro Police Department and Edgecombe Sheriff's Office,Firearm
+Male,White,MI,Gunshot,Eaton County Sheriff's Office,No
+Female,Hispanic/Latino,AZ,Gunshot,Tucson Police Department,Knife
+Male,Black,MO,Gunshot,Wellston Police Department,No
+Male,Black,CA,Gunshot,Los Angeles Police Department,No
+Male,Black,OK,Taser,Oklahoma City Police Department,No
+Male,White,MS,Gunshot,George County Sheriff's Department,Firearm
+Male,White,HI,Struck by vehicle,Hawaii Police Department,No
+Male,Black,IL,Gunshot,Joliet Police Department,Firearm
+Male,Black,MD,Gunshot,Maryland State Police,Firearm
+Male,White,AZ,Gunshot,Tempe Police Department,Knife
+Male,White,FL,Gunshot,Volusia County Sheriff's Office,No
+Male,Asian/Pacific Islander,CA,Gunshot,"Stockton Police Department, San Joaquin County Sheriff's Office",Firearm
+Male,White,NE,Gunshot,US Marshals Service,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,No
+Male,Black,WI,Gunshot,Milwaukee Police Department,Knife
+Male,Black,WI,Gunshot,Madison Police Department,No
+Male,White,TX,Taser,Sulphur Springs Police Department,No
+Male,Black,CO,Gunshot,Aurora Police Department,No
+Male,Black,FL,Gunshot,Putnam County Sheriff's Office,Vehicle
+Male,Black,GA,Struck by vehicle,Atlanta Police Department,No
+Male,White,AZ,Gunshot,Phoenix Police Department,Firearm
+Male,White,DE,Gunshot,Delaware State Police,No
+Male,Hispanic/Latino,OK,Gunshot,Oklahoma City Police Department,Firearm
+Female,Black,CA,Gunshot,Anaheim Police Department,Knife
+Male,Black,FL,Gunshot,Brevard County Sheriff's Office,Firearm
+Male,White,CO,Gunshot,Moffat County Sheriff's Office and Colorado Parks and Wildlife Law Enforcement,Firearm
+Male,White,NC,Gunshot,"North Carolina Alcohol Law Enforcement, Transylvania County Sheriff's Office, Homeland Security",Firearm
+Female,Asian/Pacific Islander,NJ,Struck by vehicle,Bergen County Prosecutor's Department,No
+Male,White,GA,Gunshot,Port Wentworth Police Department,Knife
+Male,Black,OH,Taser,Mansfield Police Department,No
+Male,Black,LA,Gunshot,US Marshals Service,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Ontario Police Department,Other
+Male,White,AL,Gunshot,Hoover Police Department,Firearm
+Male,Black,OH,Gunshot,Cleveland Division of Police,Firearm
+Male,Hispanic/Latino,CA,Gunshot,South Gate Police Department,Vehicle
+Male,White,AZ,Gunshot,Kingman Police Department,Non-lethal firearm
+Male,White,TN,Gunshot,Memphis Police Department,Firearm
+Male,Black,MD,Gunshot,Cecil County Sheriff's Office,Vehicle
+Male,Hispanic/Latino,CA,Gunshot,Santa Ana Police Department,Firearm
+Male,White,AL,Gunshot,Baldwin County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,No
+Male,Black,DC,Gunshot,Washington DC Metro Transit Police,Other
+Male,Black,TX,Death in custody,Arlington Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,No
+Male,White,CA,Gunshot,Fontana Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Napa Police Department,Firearm
+Male,White,WV,Gunshot,"Brooke County Sheriff's Department, West Virginia State Police",Knife
+Male,White,MO,Gunshot,US Marshals Service,Unknown
+Male,White,WI,Gunshot,Kenosha Police Department,No
+Male,Hispanic/Latino,TX,Gunshot,San Antonio Police Department,Firearm
+Male,White,MS,Gunshot,Pike County Sheriff's Office,Other
+Male,White,CT,Taser,Branford Police Department,No
+Male,White,MN,Gunshot,St Paul Police Department,Firearm
+Male,Asian/Pacific Islander,HI,Taser,Honolulu Police Department,No
+Male,White,NC,Gunshot,Gaston County Police Department,Firearm
+Male,White,TX,Gunshot,Onalaska Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,California Highway Patrol,No
+Male,White,NC,Gunshot,Bladen County Sheriff's Office and Bladenboro Police Department,Firearm
+Female,White,CA,Gunshot,San Francisco Police Department,Vehicle
+Male,Black,GA,Taser,Floyd County Sheriff's Office,No
+Male,White,CA,Gunshot,Bakersfield Police Department,Knife
+Male,White,OR,Gunshot,Medford Police Department,Firearm
+Male,White,ID,Gunshot,Canyon County Sheriff's Office,Firearm
+Female,White,AZ,Gunshot,Glendale Police Department,Firearm
+Male,White,FL,Gunshot,Tallahassee Police Department,Firearm
+Male,Black,FL,Gunshot,Jacksonville Sheriff's Office,Firearm
+Male,Black,OH,Gunshot,Cleveland Division of Police,No
+Male,White,WA,Gunshot,US Border Patrol,Other
+Male,Native American,AZ,Gunshot,Navajo Police Department,Firearm
+Male,White,OH,Gunshot,Kent Police Department,No
+Male,White,CA,Gunshot,Bakersfield Police Department,Firearm
+Male,White,AL,Gunshot,Lawrence County Sheriff's Office,Knife
+Male,White,OK,Gunshot,"Oklahoma Highway Patrol, Tupelo Police Department",Firearm
+Male,White,OH,Gunshot,Columbus Division of Police,Firearm
+Male,Black,LA,Gunshot,Jefferson Parish Sheriff's Office,Knife
+Male,White,AZ,Gunshot,Cottonwood Police Department,Firearm
+Male,White,CA,Gunshot,Vallejo Police Department,Knife
+Male,White,NY,Gunshot,Orleans County Sheriff's Office,Firearm
+Male,White,IN,Gunshot,Clay County Sheriff's Department,Firearm
+Male,Black,NY,Gunshot,Suffolk County Police Department,No
+Male,Black,CA,Gunshot,Santa Clara Police Department,Firearm
+Male,White,OR,Gunshot,Portland Police Bureau,Knife
+Male,White,KY,Death in custody,"Whitley County Sheriff's Department, Kentucky State Police",No
+Male,White,WA,Death in custody,Clark County Sheriff's Department,No
+Male,Black,GA,Gunshot,Smyrna Police Department,Vehicle
+Male,Black,VA,Gunshot,Portsmouth Police Department,Firearm
+Male,White,WI,Gunshot,Wisconsin State Police,Firearm
+Male,White,CA,Gunshot,San Jose Police Department,Firearm
+Male,White,AZ,Gunshot,Glendale Police Department,Firearm
+Male,Black,SC,Gunshot,"Johnsonville Police Department, Florence County Sheriff's Department (Swat)",Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Knife
+Female,White,KS,Gunshot,Gardner Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Bakersfield Police Department,Non-lethal firearm
+Female,Black,CA,Gunshot,Oxnard Police Department,Knife
+Male,Black,FL,Gunshot,Saint Lucie County Sheriff's Office,Knife
+Male,White,MA,Gunshot,Webster Police Department,Firearm
+Male,Black,MA,Gunshot,Boston Police Department,Firearm
+Male,White,WV,Gunshot,West Virginia State Police,Firearm
+Male,White,CA,Gunshot,San Diego County Sheriff's Department,Firearm
+Male,Black,AL,Gunshot,Birmingham Police Department,Firearm
+Male,White,OH,Gunshot,Pike County Sheriff's Department,Vehicle
+Male,Black,KY,Gunshot,Elizabethtown Police Department,Firearm
+Female,Black,MD,Gunshot,NSA Police Department,Vehicle
+Male,Black,CA,Gunshot,Ceres Police Department,Non-lethal firearm
+Male,Black,VA,Taser,Culpeper Police Department,No
+Male,White,IN,Taser,Lake County Sheriff's Department,No
+Male,White,NV,Gunshot,Boulder City Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Baytown Police Department,Non-lethal firearm
+Male,Black,NJ,Death in custody,Vineland Police Department,No
+Male,White,OR,Gunshot,Eugene Police Department,Firearm
+Male,White,NJ,Gunshot,Hamilton Police Department,Knife
+Male,Black,CA,Gunshot,Hawthorne Police Department,Firearm
+Male,White,LA,Gunshot,Rapides Parish Sheriff's Office,Firearm
+Male,Black,IL,Gunshot,Rock Island Police Department,Firearm
+Male,Black,NY,Taser,City of Albany Police Department,No
+Male,Black,OK,Gunshot,Tulsa County Sheriff's Office,No
+Male,White,IL,Gunshot,Metropolis Police Department,Firearm
+Male,White,OK,Taser,Warner Police Department,No
+Male,White,VA,Gunshot,Frederick County Sheriff's Office,Other
+Male,White,AZ,Gunshot,Phoenix Police Department,Knife
+Male,Black,IL,Gunshot,Zion Police Department,Firearm
+Male,Native American,WA,Taser,US Forest Service,No
+Male,Black,CA,Gunshot,Anaheim Police Department,Firearm
+Male,White,NM,Gunshot,New Mexico State Police,Firearm
+Male,Black,SC,Gunshot,North Charleston Police Department,No
+Male,White,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm
+Male,Black,LA,Gunshot,Jefferson Parish Sheriff's Office,Firearm
+Male,White,FL,Gunshot,Ocala Police Department,No
+Male,White,CA,Gunshot,Tehachapi Police Department,No
+Male,White,OK,Gunshot,Pottawatomie County Sheriff's Office,Firearm
+Male,White,CA,Gunshot,Sunnyvale Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Firearm
+Male,Black,GA,Gunshot,Lowndes County Sheriff's Office,Vehicle
+Male,White,OK,Gunshot,Creek County Sheriff's Department and Bristow Police Department,Vehicle
+Male,White,CA,Taser,Kern County Sheriff's Office,No
+Male,White,TX,Gunshot,San Antonio Police Department,Firearm
+Male,White,FL,Gunshot,Santa Rosa County Sheriff's Office,Other
+Male,White,SC,Gunshot,Spartanburg County Sheriff's Office,Firearm
+Male,White,PA,Gunshot,Pennsylvania State Police,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Tehama County Sheriff's Department,Knife
+Male,White,KS,Gunshot,"Topeka Police Department, Kansas Highway Patrol",Firearm
+Male,White,NC,Gunshot,Sampson County Sheriff's Office,Firearm
+Male,Black,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm
+Male,White,OK,Gunshot,Oklahoma City Police Department,Other
+Male,Hispanic/Latino,TX,Gunshot,Houston Police Department,Other
+Male,Hispanic/Latino,IL,Gunshot,Alton Police Department,Firearm
+Male,White,AR,Gunshot,Jonesboro Police Department,Other
+Male,Black,NY,Death in custody,New York Department of Corrections and Community Supervision,Other
+Male,Black,FL,Gunshot,Miami-Dade Police Department,Firearm
+Male,White,CA,Death in custody,Highland Police Department,No
+Male,Black,TX,Gunshot,Harris County Sheriff's Office,No
+Male,Black,SC,Gunshot,Spartanburg Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,San Bernardino County Sheriff's Office,Non-lethal firearm
+Male,White,CO,Gunshot,Ca’±on City Police Department,Firearm
+Male,Black,MD,Taser,Hagerstown Police Department,No
+Male,White,MI,Taser,Gibraltar Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Shafter Police Department,Knife
+Male,Black,IL,Gunshot,Chicago Police Department,Firearm
+Male,Black,MO,Gunshot,St Louis County Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Riverside County Sheriff's Department and California Highway Patrol,Firearm
+Male,White,AZ,Gunshot,Phoenix Police Department,Firearm
+Male,White,FL,Gunshot,Panama City Police Department,Firearm
+Male,Black,TX,Taser,San Antonio Police Department,No
+Male,White,KY,Gunshot,Wilmore Police Department,Firearm
+Male,White,NE,Gunshot,Sidney Police Department,Knife
+Male,Hispanic/Latino,TX,Gunshot,Hidalgo County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Knife
+Male,Black,NJ,Gunshot,New Jersey State Police,Vehicle
+Male,Native American,WA,Gunshot,Lakewood Police Department,No
+Male,White,MS,Taser,Lauderdale County Sheriff's Office,No
+Male,White,SC,Gunshot,Lexington County Sheriff's Office,Knife
+Male,Black,VA,Gunshot,Portsmouth Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,California Department of Corrections and Rehabilitation,No
+Male,White,NY,Gunshot,New York Police Department,Firearm
+Male,Asian/Pacific Islander,CO,Gunshot,Boulder County Sheriff's Office,Firearm
+Male,Hispanic/Latino,AZ,Gunshot,Bisbee Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Long Beach Police Department,No
+Male,White,CA,Gunshot,Los Angeles Police Department,Firearm
+Female,White,CA,Gunshot,Sonoma County Sheriff's Office,Vehicle
+Male,White,OK,Gunshot,Choctaw County Sheriff's Office and Hugo Police Department,Firearm
+Male,Black,CO,Gunshot,Trinidad Police Department,Firearm
+Male,White,OR,Gunshot,Salem Police Department,Firearm
+Male,Black,NY,Gunshot,New York Police Department,No
+Male,White,TX,Gunshot,Victoria Police Department,Other
+Male,White,FL,Gunshot,Lake County Sheriff's Office,Knife
+Male,White,OK,Gunshot,Oklahoma Highway Patrol,Firearm
+Male,White,OK,Gunshot,Oklahoma Department of Wildlife Conservation,No
+Male,White,CA,Gunshot,Fountain Valley Police Department,No
+Male,White,CA,Gunshot,Kings County Sheriff's Office,Firearm
+Male,Black,MI,Gunshot,Immigration and Customs Enforcement,Other
+Male,Black,LA,Gunshot,New Orleans Police Department,Firearm
+Male,White,IL,Gunshot,"Marion Police Department, Illinois State Police and Williamson County Sheriff's Department",Firearm
+Male,White,OH,Gunshot,Mansfield Police Department,Firearm
+Male,White,OK,Gunshot,Chickasha Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,California Department of Fish and Wildlife,Firearm
+Male,Native American,AZ,Gunshot,Mesa Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,El Paso Police Department,Other
+Female,Black,GA,Gunshot,Atlanta Police Department,Firearm
+Male,White,CA,Gunshot,San Diego Police Department,No
+Male,White,TN,Gunshot,Nashville Metropolitan Police Department,Firearm
+Male,Black,VA,Gunshot,Greensville County Sheriff's Office and Virginia State Police,Firearm
+Male,White,DE,Gunshot,Smyrna Police Department,Firearm
+Male,Black,TX,Gunshot,Garland Police Department,Firearm
+Male,Asian/Pacific Islander,TX,Gunshot,Garland Police Department,Firearm
+Male,White,UT,Gunshot,Roosevelt Police Department,Firearm
+Male,White,NM,Gunshot,Bernalillo County Sheriff's Department,Firearm
+Male,White,WA,Gunshot,"Benton County Sheriff's Office, Richland Police Department",Non-lethal firearm
+Male,White,KY,Gunshot,Kentucky State Police,Firearm
+Male,Asian/Pacific Islander,CA,Gunshot,Los Angeles County Sheriff's Department,Knife
+Male,White,VA,Gunshot,Pulaski Police Department,Firearm
+Male,Black,CA,Gunshot,Los Angeles Police Department,No
+Female,Black,NJ,Struck by vehicle,New Jersey State Police,No
+Male,Black,NJ,Struck by vehicle,New Jersey State Police,No
+Male,White,NC,Gunshot,Wake Forest Police Department,Firearm
+Male,Black,CA,Gunshot,Los Angeles County Sheriff's Department,Vehicle
+Male,White,FL,Taser,Sarasota Police Department,No
+Male,White,NY,Gunshot,Beacon Police Department,Knife
+Male,White,GA,Gunshot,Gwinnett County Sheriff's Department,Knife
+Male,Black,MN,Gunshot,Lino Lakes Police Department,No
+Male,White,AZ,Gunshot,Pinal County Sheriff's Office,Other
+Male,Black,LA,Gunshot,Jefferson Parish Sheriff's Office,Firearm
+Male,White,NY,Gunshot,Oswego County Sheriff's Department,Firearm
+Male,Black,MD,Gunshot,Prince George's County Sheriff's Office,Knife
+Male,White,NC,Taser,Enfield Police Department,No
+Male,White,FL,Gunshot,St Johns County Sheriff's Office,Knife
+Male,Black,TX,Gunshot,Fort Worth Police Department,Vehicle
+Male,White,WA,Gunshot,Tacoma Police Department,Firearm
+Male,Black,FL,Gunshot,Jacksonville Sheriff's Office,Firearm
+Male,White,CA,Gunshot,Orange County Sheriff's Department,Knife
+Male,Asian/Pacific Islander,HI,Gunshot,US Marshals Service,Firearm
+Male,Black,WA,Death in custody,Spokane Police Department,No
+Male,White,MI,Gunshot,"Michigan State Police, Kalamazoo County Sheriff's Office and Portage Police Department",Firearm
+Male,Hispanic/Latino,NY,Death in custody,New York Police Department,No
+Male,White,IL,Gunshot,Rockford Police Department,Firearm
+Male,White,CA,Gunshot,Sacramento Police Department,Non-lethal firearm
+Male,White,FL,Gunshot,St Petersburg Police Department,Firearm
+Male,White,CA,Gunshot,San Diego Police Department,Firearm
+Male,White,NM,Gunshot,Ruidoso Police Department,Other
+Male,Black,IL,Gunshot,Harvey Police Department,Firearm
+Male,Black,FL,Taser,Coconut Creek Police Department,No
+Male,White,FL,Gunshot,Tampa Bay Police Department [US Marshals Service Task Force],Firearm
+Male,Black,GA,Gunshot,DeKalb County Police Department,No
+Male,Black,IN,Gunshot,"Indiana State Police, Tippecanoe County Sheriff's Department",Firearm
+Male,White,MO,Gunshot,Columbia Police Department and University of Missouri Police,Firearm
+Male,White,ID,Gunshot,Jefferson County Sheriff Department,Firearm
+Male,Black,TX,Gunshot,Fort Worth Police Department,Firearm
+Male,Black,MD,Death in custody,Baltimore Police Department,No
+Male,Black,OH,Gunshot,Columbus Police Department,Knife
+Male,Hispanic/Latino,TX,Gunshot,Lynn County Sheriff's Office,No
+Male,White,FL,Gunshot,St Johns County Sheriff's Office,Firearm
+Male,Hispanic/Latino,VA,Gunshot,Arlington Police Department,Knife
+Male,Black,PA,Gunshot,Lancaster Police Department,Firearm
+Male,White,CO,Gunshot,Grand Junction Police Department,Firearm
+Male,White,AR,Gunshot,"Lonoke County Sheriff's Office, Arkansas Department of Community Correction",Firearm
+Male,White,OH,Gunshot,Summit County Sheriff's Office,Knife
+Male,Black,NE,Gunshot,Omaha Police Department,Firearm
+Male,White,SC,Gunshot,North Charleston Police Department,Knife
+Female,White,WY,Gunshot,Campbell County Sheriff's Office,Knife
+Male,Black,KY,Gunshot,Owensboro Police Department and Kentucky State Police,Firearm
+Male,Black,SC,Gunshot,South Carolina State Law Enforcement Division,Firearm
+Male,Hispanic/Latino,NJ,Gunshot,Hackensack Police Department,Knife
+Male,Black,FL,Gunshot,Fort Lauderdale Police Department,Other
+Male,Hispanic/Latino,TX,Gunshot,El Paso Police Department,Firearm
+Male,White,PA,Gunshot,Pennsylvania State Police,Non-lethal firearm
+Male,White,MO,Gunshot,Pettis County Sheriff's Office,Firearm
+Male,Black,MI,Gunshot,Detroit Police Department,Firearm
+Male,White,AZ,Gunshot,Eagar Police Department and Apache County Sheriff's Office,Firearm
+Female,White,TX,Gunshot,Austin Police Department,Firearm
+Male,Black,NY,Gunshot,New York Police Department,Firearm
+Male,Black,AL,Gunshot,Huntsville Police Department,Knife
+Male,White,WA,Gunshot,Snohomish County Sheriff's Office,Firearm
+Male,White,NJ,Gunshot,Monmouth County Emergency Response Team,Knife
+Male,White,KS,Taser,Kansas City KS Police Department,No
+Male,White,OK,Gunshot,Edmond Police Department,Non-lethal firearm
+Male,White,LA,Gunshot,FBI,Unknown
+Male,White,CA,Gunshot,San Diego County Sheriff's Department,Other
+Male,White,GA,Gunshot,Putnam County Sheriff's Department,Knife
+Male,Black,CO,Gunshot,Northglenn Police Department and Thornton Police Department,Firearm
+Male,Arab-American,CA,Gunshot,Long Beach Police Department,No
+Male,White,SC,Gunshot,Lancaster County Sheriff's Department,Firearm
+Male,Black,GA,Gunshot,Carrolton Police Department,Firearm
+Male,White,MI,Gunshot,Trenton Police Department,Other
+Male,Black,NJ,Gunshot,Lyndhurst Police Department,Knife
+Male,White,OK,Gunshot,Oklahoma Highway Patrol,Unknown
+Male,White,OR,Gunshot,Oregon State Police,Unknown
+Male,White,AZ,Gunshot,Yavapai County SheriffŠ—Ès Office,No
+Male,Hispanic/Latino,TN,Gunshot,Metro Nashville Police Department,Non-lethal firearm
+Male,Black,NY,Taser,Rochester Police Department,No
+Male,White,TX,Gunshot,Palestine Police Department,Non-lethal firearm
+Male,White,NY,Gunshot,Greece Police Department,Firearm
+Male,White,OR,Gunshot,Medford Police Department,Firearm
+Male,Black,MA,Gunshot,Boston Police Department and FBI,Knife
+Male,White,KY,Taser,Louisa Police Department,No
+Male,Arab-American,TX,Gunshot,Tarrant County Sheriff's Office,Knife
+Male,Hispanic/Latino,TX,Gunshot,Ellis County Sheriff's Department and Texas DPS,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Houston Police Department,Knife
+Male,White,NJ,Gunshot,Byram Police Department,Firearm
+Male,White,OH,Death in custody,Knox County Sheriff's Office,No
+Male,Black,PA,Struck by vehicle,Chester Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Delano Police Department,Firearm
+Male,Hispanic/Latino,NM,Gunshot,Valencia County SheriffŠ—Ès Department,Unknown
+Male,Black,PA,Gunshot,Philadelphia Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Santa Maria Police Department,Firearm
+Male,White,CA,Struck by vehicle,San Francisco Police Department,No
+Male,Hispanic/Latino,CO,Gunshot,Arapahoe County Sheriff's Office,Firearm
+Male,Black,CA,Gunshot,Oakland Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Watsonville Police Department,Firearm
+Male,White,TX,Gunshot,Midland Police Department,Knife
+Female,White,WV,Gunshot,Monongalia County SheriffŠ—Ès Department,Vehicle
+Male,White,FL,Gunshot,North Port Police Department,Firearm
+Male,White,OK,Gunshot,Sand Springs Police Department,Firearm
+Male,White,WA,Gunshot,Woodland Police Department,Firearm
+Male,White,FL,Gunshot,Melbourne Police Department,Firearm
+Male,White,IN,Gunshot,Beech Grove Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Anaheim Police Department,Knife
+Male,Black,TX,Taser,Dallas Police Department,No
+Male,Hispanic/Latino,NY,Taser,New York Police Department,Other
+Male,White,OH,Gunshot,Findlay Police Department,No
+Male,White,AZ,Gunshot,Maricopa County Sheriff's Office,Firearm
+Male,Black,TX,Gunshot,DeSoto Police Department,Unknown
+Male,White,IA,Gunshot,Des Moines Police Department,No
+Male,White,TX,Gunshot,"Montgomery County Sheriff's Office, Tomball Police Department",Firearm
+Male,Black,OH,Gunshot,Cincinnati Police Department,Firearm
+Male,Black,NY,Gunshot,New York Police Department,Firearm
+Male,Black,FL,Gunshot,Broward Sheriff's Office,Firearm
+Male,Black,FL,Gunshot,Miami Police Department,Other
+Male,White,TN,Gunshot,Columbia Police Department,Firearm
+Male,Hispanic/Latino,NJ,Gunshot,Hackensack Police Department,Knife
+Male,Hispanic/Latino,TX,Gunshot,Bexar County Sheriff's Office,Firearm
+Female,White,IN,Gunshot,Kokomo Police Department,Non-lethal firearm
+Male,White,TX,Gunshot,Dallas Police Department,Firearm
+Male,White,WV,Death in custody,West Virginia Division of Corrections,No
+Male,Black,KY,Gunshot,Louisville Metro Police Department,Other
+Male,White,IN,Gunshot,Fort Wayne Police Department,Firearm
+Female,White,SC,Gunshot,Aiken County Sheriff's Office,Unknown
+Male,Hispanic/Latino,CA,Gunshot,Stockton Police Department,Vehicle
+Male,White,FL,Gunshot,Brevard County Sheriff's Office,Firearm
+Male,Black,CA,Gunshot,South Lake Tahoe Police Department,No
+Female,White,NJ,Gunshot,Neptune Police Department,No
+Male,White,CA,Gunshot,Visalia Police Department,Firearm
+Male,Black,SC,Struck by vehicle,Greenville County Sheriff's Office,No
+Male,Black,FL,Death in custody,Indian River County Sheriff's Office,No
+Female,White,AL,Gunshot,Alabama Law Enforcement Agency,Firearm
+Male,Native American,ND,Gunshot,Spirit Lake Tribal Police Department,Firearm
+Male,White,NY,Gunshot,New York Police Department,Knife
+Male,White,NM,Gunshot,Hobbs Police Department,Firearm
+Male,Black,OH,Gunshot,Cincinnati Police Department,Firearm
+Male,Hispanic/Latino,CO,Gunshot,Greeley Police Department,Firearm
+Male,Hispanic/Latino,MA,Gunshot,Massachusetts State Police,Knife
+Male,White,TX,Gunshot,Harris County Sheriff's Office,Other
+Male,Hispanic/Latino,CA,Gunshot,Azusa Police Department,No
+Male,White,NC,Gunshot,Wilkes County Sheriff's Office,Firearm
+Male,Black,PA,Gunshot,Pittsburgh Police Department,Firearm
+Male,White,GA,Gunshot,Richmond County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Citrus Heights Police Department,Firearm
+Male,White,KS,Gunshot,Hutchinson Police Department,Knife
+Male,White,IN,Gunshot,Indianapolis Metropolitan Police Department,No
+Male,White,TX,Gunshot,Weatherford Police Department,Knife
+Male,Black,VA,Gunshot,York-Poquoson SheriffŠ—Ès Office,Firearm
+Male,Black,MD,Gunshot,Baltimore County Police Department,No
+Male,Hispanic/Latino,ID,Death in custody,"Owyhee County Sheriff's Office, Homedale Police Department, Owyhee County Posse",No
+Male,White,CA,Gunshot,Fresno County Sheriff's Office,Firearm
+Male,White,NY,Gunshot,Federal law enforcement agents,Firearm
+Male,Black,IL,Gunshot,Chicago Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,San Antonio Police Department,Firearm
+Male,White,OK,Gunshot,Tahlequah Police Department,Firearm
+Male,White,OR,Gunshot,Portland Police Bureau,Non-lethal firearm
+Male,White,NY,Gunshot,"Saratoga County Sheriff's Office, New York State Police",Firearm
+Male,Hispanic/Latino,AZ,Gunshot,Mesa Police Department,Firearm
+Male,White,NC,Gunshot,Franklin Police Department,Firearm
+Male,White,OH,Struck by vehicle,Clayton Police Department,No
+Male,Black,OR,Gunshot,Yamhill County Sheriff's Office,No
+Male,White,MA,Gunshot,Brockton Police Department,Non-lethal firearm
+Male,White,NC,Struck by vehicle,Winston Salem Police Department,No
+Male,White,WA,Death in custody,Island County Sheriff's Office,No
+Male,White,OR,Gunshot,"Oregon State Police, ATF",Firearm
+Male,White,FL,Gunshot,Miami Beach Police Department,Firearm
+Male,Black,FL,Gunshot,Jacksonville Sheriff's Office,Unknown
+Male,Unknown,WV,Gunshot,"West Virginia State Police, Summers County Sheriff's Department",Other
+Male,Asian/Pacific Islander,CA,Gunshot,San Diego Police Department,Knife
+Male,Black,VA,Gunshot,Newport News Police Department,Firearm
+Male,Hispanic/Latino,NJ,Gunshot,Camden County Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,West Covina Police Department,Knife
+Male,Hispanic/Latino,CA,Death in custody,Montclair Police Department,No
+Male,Black,OK,Gunshot,Oklahoma City Police Department,Firearm
+Male,White,NV,Gunshot,Henderson Police Department,Firearm
+Male,White,TN,Gunshot,Morristown Police Department,Firearm
+Male,White,TX,Gunshot,Austin Police Department,Firearm
+Male,White,TX,Gunshot,Austin Police Department,Non-lethal firearm
+Male,White,NJ,Struck by vehicle,Lacey Township Police Department,No
+Male,White,CA,Gunshot,Pleasanton Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,No
+Male,White,OK,Gunshot,Oklahoma City Police Department,Firearm
+Male,White,AZ,Gunshot,Mesa Police Department,Other
+Male,Black,TX,Gunshot,Houston Police Department,Firearm
+Male,Black,FL,Taser,Miami Police Department,Knife
+Male,Black,CA,Gunshot,Los Angeles Police Department,Knife
+Male,White,CA,Gunshot,Los Angeles County Sheriff's Department,Vehicle
+Male,White,TX,Gunshot,Dallas Police Department,Firearm
+Male,White,NH,Gunshot,Haverhill Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Bakersfield Police Department,Firearm
+Male,White,KY,Gunshot,Elizabethtown Police Depatment,Knife
+Male,Black,NJ,Gunshot,Atlantic City Police Department,Knife
+Male,Hispanic/Latino,TX,Gunshot,Hidalgo County SheriffŠ—Ès Office,Firearm
+Male,White,OR,Gunshot,Beaverton Police Department,Firearm
+Male,White,MO,Gunshot,Independence Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Atwater Police Department,Knife
+Male,White,NC,Gunshot,Ashe County Sheriff's Office,Vehicle
+Male,White,AZ,Gunshot,Phoenix Police Department,Firearm
+Male,White,FL,Struck by vehicle,Tampa Police Department,No
+Male,Black,IL,Gunshot,Chicago Police Department,Firearm
+Male,White,UT,Gunshot,Parowan Police Department,Firearm
+Male,Black,MS,Death in custody,Stonewall Police Department,No
+Male,White,CA,Gunshot,Santa Cruz County Sheriff's Office,Firearm
+Male,White,CA,Gunshot,Los Angeles Police Department,Other
+Male,White,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+Male,Black,GA,Taser,Gwinnett County Police Department,No
+Male,Black,MO,Gunshot,Kansas City Police Department,Other
+Male,Black,GA,Gunshot,Dekalb County Police Department,Firearm
+Male,White,TX,Gunshot,Austin Police Department,Firearm
+Male,White,CA,Gunshot,Yuba County Sheriff's Department,Firearm
+Male,Native American,CO,Gunshot,Denver Police Department,Knife
+Male,Black,FL,Gunshot,Plantation Police Department,No
+Male,Black,GA,Gunshot,Newton County SheriffŠ—Ès Office,Unknown
+Male,White,IL,Gunshot,River Forest Police Department,Firearm
+Male,White,OH,Struck by vehicle,Franklin County Sheriff's Office,No
+Male,White,WY,Gunshot,Casper Police Department,Unknown
+Male,White,CA,Gunshot,"Shasta County Sheriff's Office, California Highway Patrol",Firearm
+Male,White,UT,Taser,Utah State Highway Patrol,No
+Male,Hispanic/Latino,MA,Gunshot,Lynn Police Department,Vehicle
+Male,Black,FL,Gunshot,Lake County Sheriff's Office,Firearm
+Male,White,NC,Death in custody,Henderson County Sheriff's Office,No
+Male,White,OH,Gunshot,Trumbull County Sheriff's Office,Firearm
+Male,White,MI,Gunshot,Michigan State Police,Unknown
+Male,Black,CA,Gunshot,Moreno Valley Police Department,Knife
+Male,White,CA,Gunshot,Los Angeles Police Department,Other
+Male,White,KS,Gunshot,"Kansas City Police Department, US Marshals",Firearm
+Male,White,WY,Gunshot,Cheyenne Police Department,Firearm
+Male,Black,FL,Gunshot,Homesptead Police Department,Firearm
+Male,Hispanic/Latino,WI,Gunshot,Wauwatosa Police Department,Other
+Male,Arab-American,TN,Gunshot,Chattanooga Police Department,Firearm
+Male,White,WA,Gunshot,Seattle Police Department,Knife
+Male,Black,FL,Gunshot,Orlando Police Department,No
+Male,White,CO,Gunshot,Fort Collins Police Department,Knife
+Male,White,AZ,Gunshot,Phoenix Police Department,Firearm
+Male,Black,TN,Gunshot,Memphis Police Department,No
+Male,Hispanic/Latino,TX,Gunshot,Brownsville Police Department,Unknown
+Male,Hispanic/Latino,CA,Gunshot,Farmersville Police Department,No
+Male,Black,OH,Gunshot,University of Cincinnati Police Department,No
+Male,White,CA,Gunshot,San Bernardino Sheriff's Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Harris County Sheriff's Office,Firearm
+Male,White,KS,Gunshot,"Colby Police Department, Thomas County Sheriff's Office",Firearm
+Male,White,MS,Death in custody,Southaven Police Department,No
+Male,Asian/Pacific Islander,CA,Gunshot,Fremont Police Department,Knife
+Male,White,OK,Gunshot,Midwest City Police Department,Firearm
+Male,White,TX,Gunshot,Chambers County Sheriff's Office,Firearm
+Male,Black,PA,Gunshot,Philadelphia Police Department,Firearm
+Male,White,GA,Gunshot,Wayne County SheriffŠ—Ès Office,Firearm
+Male,White,WV,Death in custody,Weston Police Department,No
+Male,White,FL,Gunshot,Broward Sheriff's Office,Firearm
+Male,White,AL,Gunshot,Opp Police Department,Firearm
+Male,White,GA,Gunshot,Bartow County Sheriff's Office,Other
+Male,Black,GA,Struck by vehicle,Worth County Sheriff's Department,No
+Male,Hispanic/Latino,WI,Gunshot,Green County Sheriff's Department,Firearm
+Male,Black,OH,Gunshot,Montgomery County SheriffŠ—Ès Office,Firearm
+Male,Black,OK,Gunshot,Oklahoma City Police Department,Knife
+Male,White,WY,Gunshot,Converse County Sheriff's Office,Non-lethal firearm
+Male,White,MN,Gunshot,Plymouth Police Department,No
+Male,White,SC,Gunshot,Horry County Police Department,Firearm
+Female,White,CA,Gunshot,Placer County Sheriff's Office,Firearm
+Male,White,CA,Gunshot,Los Angeles Police Department,Firearm
+Male,White,LA,Gunshot,New Orleans Police Department,Unknown
+Male,White,NC,Gunshot,Stokes County Sheriff's Department,Knife
+Male,White,GA,Gunshot,Decatur County SheriffŠ—Ès Office,Firearm
+Male,Black,NV,Gunshot,Las Vegas Metropolitan Police Department,Non-lethal firearm
+Male,Black,LA,Gunshot,Shreveport Police Department,Firearm
+Male,White,SC,Gunshot,Seneca Police Department,No
+Male,White,LA,Gunshot,"Terrebonne Parish Sheriff's Office, Houma Police Department, Louisiana State Police",Non-lethal firearm
+Male,Black,FL,Gunshot,Florida Highway Patrol,Firearm
+Male,White,SC,Gunshot,Lexington County Sheriff's Department,Knife
+Male,White,TN,Gunshot,Bradley County Sheriff's Department,No
+Male,White,CO,Gunshot,Boulder Police Department,Knife
+Male,White,AR,Gunshot,Manila Police Department,Knife
+Male,Hispanic/Latino,NM,Gunshot,Do’±a Ana County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,Other
+Male,White,UT,Gunshot,"Logan Police Department, Cache County Sheriff's Office",Firearm
+Male,Asian/Pacific Islander,CA,Death in custody,San Francisco Police Department,No
+Male,Hispanic/Latino,MA,Taser,Worcester Police Department,No
+Male,White,CA,Gunshot,California Highway Patrol,Firearm
+Male,White,NV,Gunshot,Douglas County Sheriff's Office,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Fort Worth Police Department,Firearm
+Male,Hispanic/Latino,NM,Gunshot,Albuquerque Police Department,Firearm
+Male,White,NM,Gunshot,Roswell Police Department and Chaves County Sheriff's Office,Firearm
+Male,Unknown,WV,Gunshot,Nitro Police Department,Firearm
+Male,White,TX,Gunshot,Houston Police Department,Vehicle
+Male,Unknown,AZ,Gunshot,Tuscon Police Department,Firearm
+Male,White,MI,Struck by vehicle,St Clair Shores Police Department,No
+Male,White,TX,Death in custody,Dallas County Sheriff's Office,No
+Male,Black,CA,Gunshot,Oakland Police Department,Firearm
+Male,White,PA,Gunshot,South Londonderry Police Department,Firearm
+Male,White,IN,Gunshot,Muncie Police Department,Non-lethal firearm
+Male,White,VA,Gunshot,Powhatan County SheriffŠ—Ès Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Orange County Sheriff's Department and US Border Patrol,No
+Male,Hispanic/Latino,TN,Gunshot,Metropolitan Nashville Police Department,Non-lethal firearm
+Male,Black,VA,Gunshot,Richmond Police Department,Firearm
+Male,White,WI,Gunshot,Greenfield Police Department,Knife
+Male,White,WA,Gunshot,Tacoma Police Department,Firearm
+Male,Black,HI,Gunshot,Maui Police Department,Firearm
+Male,White,KY,Gunshot,Louisville Metro Police Department,Knife
+Male,Black,IL,Gunshot,Champaign Police Department,Other
+Male,Black,GA,Taser,DeKalb County Police Department,No
+Male,Hispanic/Latino,KY,Gunshot,Elsmere Police Department,Knife
+Male,White,CA,Gunshot,Fresno Police Department,Non-lethal firearm
+Male,Hispanic/Latino,NV,Gunshot,Las Vegas Police Department,Other
+Male,Black,TX,Gunshot,Arlington Police Department,No
+Male,Black,CA,Gunshot,Long Beach Police Department,Knife
+Male,Black,SC,Gunshot,Dorchester County Sheriff's Office,Firearm
+Male,White,CT,Death in custody,Hartford Police Department,No
+Male,White,MT,Gunshot,Mineral County Sheriff's Department,Vehicle
+Male,Unknown,TX,Gunshot,Brookshire Police Department,Firearm
+Male,White,NC,Gunshot,Gaston County Police Department,Firearm
+Male,White,WA,Gunshot,Spokane Police Department,Firearm
+Male,Black,NC,Gunshot,Greenville Police Department,Firearm
+Male,White,OK,Gunshot,Ardmore Police Department,No
+Male,Black,IN,Gunshot,Indianapolis Metropolitan Police Department,Vehicle
+Male,Hispanic/Latino,CA,Gunshot,San Jose Police Department,Knife
+Male,Unknown,PA,Gunshot,Pittston Police Department,Non-lethal firearm
+Male,White,AZ,Gunshot,Gilbert Police Department,Vehicle
+Male,White,NE,Gunshot,Douglas County Sheriff's Office,Firearm
+Male,White,ID,Gunshot,Bonner County Sheriff's Office and Sandpoint Police Department,Firearm
+Male,White,TX,Gunshot,Waco Police Department,Knife
+Male,Black,CA,Gunshot,Oakland Police Department,Firearm
+Female,Black,CA,Gunshot,Los Angeles Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Riverside County Sheriff's Department,Firearm
+Male,White,TX,Gunshot,Texas Department of Public Safety,Firearm
+Male,White,NM,Gunshot,Lea County Sheriff's Department and Hobbs Police Department,Unknown
+Male,Black,OH,Gunshot,Toledo Police Department,Firearm
+Male,Black,NY,Gunshot,New York Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Boerne Police Department,Firearm
+Male,Black,MD,Gunshot,Prince George's County Police Department,No
+Male,White,IN,Gunshot,Jefferson County IN Sheriff's Office,No
+Male,Black,CA,Gunshot,Sunnyvale Police Department,Firearm
+Male,White,CA,Gunshot,Kern County Sheriff's Office,Firearm
+Male,White,NV,Gunshot,Carson City Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Taser,"Los Angeles County SheriffŠ—Ès Department, Baldwin Park Police Department",No
+Male,Hispanic/Latino,CA,Gunshot,San Jose Police Department,Firearm
+Male,White,TX,Gunshot,Kerrville Police Department,Firearm
+Male,White,CT,Gunshot,Connecticut State Police and Manchester Police Department,Knife
+Male,Black,TX,Gunshot,Houston Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,San Jose Police Department,No
+Male,Black,NY,Death in custody,New York Department of Corrections and Community Supervision,No
+Male,Black,MO,Gunshot,St Louis Metropolitan Police Department,Disputed
+Male,White,WA,Gunshot,Stevens County Sheriff's Office,Firearm
+Male,Black,MI,Gunshot,"Bloomfield Hills Public Safety Department, Warren Police Department",Firearm
+Male,Hispanic/Latino,CA,Gunshot,California Department of Corrections and Rehabilitation,Unknown
+Male,White,NC,Gunshot,"Maggie Valley Police Department, Haywood County Sheriff's Office, and Waynesville Police Department",Firearm
+Male,White,AL,Gunshot,Tuscaloosa Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Ontario Police Department,Firearm
+Male,White,WA,Gunshot,Mason County Sheriff's Office,Unknown
+Male,White,NC,Gunshot,Wake Forest Police Department,Knife
+Male,White,MD,Gunshot,Maryland State Police,No
+Male,White,MN,Gunshot,Itasca County Sheriff's office,Firearm
+Male,White,AZ,Taser,"Scottsdale Police Department, Phoenix Police Department",No
+Male,Black,NY,Gunshot,Troy Police Department,Firearm
+Male,White,CA,Gunshot,Bakersfield Police Department,Other
+Male,White,KS,Gunshot,Wichita Police Department,Vehicle
+Male,White,AL,Gunshot,Arab Police Department,Unknown
+Male,White,NJ,Gunshot,Brick Township Police Department,Non-lethal firearm
+Male,White,NC,Gunshot,"Archdale Police Department, High Point Police Department",Firearm
+Male,White,FL,Gunshot,Jacksonville Sheriff's Office,Firearm
+Male,White,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+Male,White,VA,Gunshot,King George County Sheriff's Office,Knife
+Male,Hispanic/Latino,NM,Gunshot,"New Mexico State Police, Santa Fe Police Department, Santa Fe County Sheriff's Office",Firearm
+Male,Black,PA,Gunshot,Chester County Sheriff's Office,Knife
+Male,White,FL,Gunshot,Hillsborough County Sheriff's Office,Firearm
+Male,White,AZ,Gunshot,Phoenix Police Department,Firearm
+Male,White,TN,Gunshot,Hendersonville Police Department,Non-lethal firearm
+Male,Hispanic/Latino,FL,Gunshot,Miami-Dade Police Department,Firearm
+Male,White,OH,Gunshot,Washington County Sheriff's Office,Firearm
+Male,White,TN,Gunshot,Hamilton County Sheriff's Office,Firearm
+Male,Black,CA,Gunshot,Oakland Police Department,Other
+Male,Black,TX,Gunshot,Dallas Police Department,Non-lethal firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Other
+Male,White,CA,Gunshot,San Diego Police Department,Knife
+Male,White,VA,Struck by vehicle,Virginia State Police,No
+Female,White,VA,Struck by vehicle,Virginia State Police,No
+Male,White,UT,Gunshot,Spanish Fork Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Bexar County Sheriff's Office,Disputed
+Male,Black,NY,Gunshot,New York Police Department,No
+Male,Black,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,San Antonio Police Department,Knife
+Male,Hispanic/Latino,IL,Gunshot,Chicago Police Department,Vehicle
+Male,White,OK,Gunshot,Cushing Police Department,Firearm
+Male,Hispanic/Latino,AZ,Gunshot,Tucson Police Department,Firearm
+Male,White,CO,Gunshot,Loveland Police Department,Knife
+Male,White,TX,Gunshot,Longview Police Department,Firearm
+Male,Black,OH,Taser,Cincinnati Police Department,No
+Male,Black,WV,Gunshot,Bluefield Police Department,Firearm
+Male,Black,NJ,Struck by vehicle,Newark Police Department,Unknown
+Male,White,GA,Taser,Harris County Sheriff's Office,No
+Male,White,NM,Gunshot,"Carlsbad Police Department, Lake Arthur Police Department",Firearm
+Male,White,OH,Gunshot,Twinsburg Police Department,Firearm
+Male,White,CA,Death in custody,Santa Clara County Sheriff's Office,No
+Male,White,AZ,Gunshot,Yavapai County Sheriff's Office,Firearm
+Male,White,SD,Gunshot,Mitchell Police Division,Firearm
+Male,White,CA,Gunshot,Hoopa Valley Tribal Police Department,Firearm
+Male,Hispanic/Latino,IN,Gunshot,"West Baden Police Department, Indiana State Police",Other
+Male,White,TX,Gunshot,Parker County Sheriff's Department,Firearm
+Male,Black,NC,Gunshot,Durham Police Department,Non-lethal firearm
+Male,Hispanic/Latino,CA,Gunshot,Ontario Police Department,Other
+Male,Hispanic/Latino,CA,Taser,Long Beach Police Department,No
+Male,White,FL,Gunshot,Miami Police Department,Firearm
+Male,White,RI,Death in custody,Providence Police Department,No
+Male,Black,VA,Gunshot,Virginia Beach Police Department,Firearm
+Female,Black,VA,Gunshot,Virginia Beach Police Department,No
+Male,Other,LA,Gunshot,Shreveport Police Department,Firearm
+Male,White,PA,Taser,Pennsylvania State Police,No
+Male,Hispanic/Latino,NM,Death in custody,Bernaillo Police Department,No
+Male,White,NH,Gunshot,Merrimack Police Department,Knife
+Male,Black,MI,Other,Lathrup Village Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Fresno Police Department,Other
+Male,White,NM,Gunshot,Hobbs Police Department,Firearm
+Male,Black,AL,Death in custody,Huntsville Police Department,No
+Male,White,WI,Gunshot,Ashwaubenon Department of Public Safety,Firearm
+Male,Black,MO,Gunshot,Kansas City Police Department,Other
+Male,Native American,AK,Gunshot,Alaska State Troopers and Fairbanks Police Department,Firearm
+Male,Black,IN,Gunshot,Indiana State Police,Firearm
+Male,White,CA,Gunshot,Lodi Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Fontana Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,Firearm
+Male,Unknown,PA,Gunshot,Federal Bureau of Investigation,Unknown
+Female,Hispanic/Latino,CO,Death in custody,Jefferson County Sheriff's Office,No
+Male,Asian/Pacific Islander,NY,Gunshot,Potsdam Police Department,Knife
+Male,Hispanic/Latino,IL,Death in custody,Chicago Police Department,No
+Male,White,AL,Gunshot,Talladega County Sheriff's Office,Unknown
+Male,White,IA,Gunshot,Washington County Sheriff's Office,Firearm
+Male,White,TN,Gunshot,Knox County Sheriff's Office Swat team,Firearm
+Male,Black,OK,Gunshot,Grant County Sheriff's Office,Firearm
+Male,White,OH,Death in custody,Springfield Township Police Department,No
+Male,White,TX,Gunshot,Mineola Police Department,Vehicle
+Male,Black,KY,Gunshot,Unknown,Firearm
+Male,White,CA,Gunshot,Barstow Police Department,No
+Male,Black,LA,Gunshot,St Bernard Sheriff's Office,Other
+Male,White,CO,Gunshot,Broomfield Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Firearm
+Male,Hispanic/Latino,FL,Gunshot,Miami-Dade Police Department,Unknown
+Male,Native American,AK,Gunshot,"Fairbanks Police Department, Alaska State Troopers",Firearm
+Male,Black,LA,Gunshot,US Marshals violent offender taskforce,Firearm
+Male,White,MI,Gunshot,Michigan State Police,Firearm
+Male,Hispanic/Latino,CA,Struck by vehicle,Rialto Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Firearm
+Male,White,KY,Gunshot,"Kentucky State Police, Rockcastle County Sheriff's Department",Firearm
+Male,Asian/Pacific Islander,CA,Gunshot,El Monte Police Department,Knife
+Male,White,TN,Gunshot,Dickson County Sheriff's Office,Unknown
+Male,White,CA,Gunshot,San Bernardino County Sheriff's Department,No
+Male,White,AL,Gunshot,Washington County Sheriff's Office,Firearm
+Male,White,LA,Gunshot,"St Tammany Parish Sheriff's Office, Slidell Police Department, Louisiana State Police",Firearm
+Male,Native American,WA,Death in custody,"Tulalip Tribal Police Department, Snohomish County Sheriff's Office",No
+Male,White,IN,Gunshot,"Shelbyville Police Department, Shelby County SheriffŠ—Ès Department",Firearm
+Male,White,VA,Gunshot,Harrisonburg Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Dallas Police Department,Firearm
+Female,White,MI,Struck by vehicle,Benton Charter Township Police Department,No
+Male,Black,CA,Gunshot,Alameda County Sheriff's Office,Firearm
+Male,Hispanic/Latino,WI,Gunshot,Green Lake County Sheriff's Office,Firearm
+Male,White,CA,Gunshot,Sand City Police Department,Firearm
+Female,White,CA,Gunshot,Sand City Police Department,Firearm
+Male,White,TX,Gunshot,Texas Department of Public Safety,Unknown
+Male,White,FL,Gunshot,Volusia County Sheriff's Office,Firearm
+Male,Hispanic/Latino,FL,Gunshot,Polk County Sheriff's Office,No
+Male,White,NV,Gunshot,North Las Vegas Police Department,Firearm
+Male,White,CA,Gunshot,Shasta County Sheriff's Office,Firearm
+Male,White,FL,Gunshot,Okaloosa County Sheriff's Office,Firearm
+Male,Black,UT,Gunshot,Salt Lake City Police Department,Knife
+Male,Black,DE,Gunshot,Wilmington Police Department,Firearm
+Male,Black,MD,Gunshot,Baltimore County Police Department,No
+Male,White,TX,Gunshot,McKinney Police Department,Firearm
+Male,Black,FL,Gunshot,Miami-Dade Police Department,Knife
+Male,White,VA,Gunshot,Grayson County Sheriff's Office,Firearm
+Male,White,CO,Gunshot,Fountain Police Department,Firearm
+Male,Native American,MN,Gunshot,St Paul Police Department,Other
+Male,White,OH,Gunshot,Akron Police Department,No
+Male,Black,IL,Gunshot,Chicago Police Department,Knife
+Male,White,AZ,Gunshot,Yavapai County Sheriff's Office,Firearm
+Female,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Knife
+Male,Black,LA,Gunshot,East Baton Rouge Sheriff's Office,Knife
+Male,Hispanic/Latino,NM,Gunshot,Lovington Police Department,Firearm
+Male,White,GA,Gunshot,Walker County Sheriff's Office,Firearm
+Male,Black,FL,Gunshot,Miami-Dade Police Department,No
+Male,Hispanic/Latino,CA,Gunshot,San Diego Police Department,Non-lethal firearm
+Male,Hispanic/Latino,TX,Gunshot,Ponder Police Department,Firearm
+Male,White,IN,Struck by vehicle,Indianapolis Metropolitan Police Department,No
+Male,Black,WV,Gunshot,West Virginia State Police,Firearm
+Male,Native American,SD,Gunshot,Rapid City Police Department,Other
+Male,Hispanic/Latino,CA,Gunshot,Fresno Police Department,Non-lethal firearm
+Male,White,MN,Gunshot,Kanabec County Sheriff's Office,No
+Male,Hispanic/Latino,CA,Gunshot,Rialto Police Department,Knife
+Female,White,OR,Gunshot,Washington County Sheriff's Office,Knife
+Male,White,CA,Gunshot,Los Angeles Police Department,No
+Male,Black,IL,Gunshot,Chicago Police Department,Firearm
+Male,Hispanic/Latino,AZ,Gunshot,Cochise County SheriffŠ—Ès Office,Firearm
+Female,White,GA,Struck by vehicle,Georgia State Patrol,No
+Female,White,GA,Struck by vehicle,Georgia State Patrol,No
+Male,White,AL,Gunshot,"Muscle Shoals Police Department, Sheffield Police Department",Firearm
+Male,White,TX,Gunshot,Randall County Sheriff's Office,Unknown
+Male,White,TX,Gunshot,Hurst Police Department,Firearm
+Male,White,NJ,Gunshot,Woodbridge Police Department,Firearm
+Male,White,CA,Gunshot,Monterey Police Department,Firearm
+Male,White,OH,Gunshot,Akron Police Department,No
+Male,Hispanic/Latino,FL,Gunshot,Palm Beach County Sheriff's Office,Other
+Male,Hispanic/Latino,MD,Gunshot,Howard County Police Department,Knife
+Male,White,CT,Gunshot,Connecticut State Police,Firearm
+Male,White,MI,Gunshot,Michigan State Police,Other
+Male,Asian/Pacific Islander,LA,Gunshot,Lake Charles Police Department,Firearm
+Male,Black,SC,Gunshot,Greenville County Sheriff's Office,Firearm
+Male,White,MA,Gunshot,Beverly Police Department,Vehicle
+Male,Hispanic/Latino,CA,Gunshot,San Bernardino Police Department,No
+Male,Unknown,IL,Gunshot,Lisle Police Department,Unknown
+Male,White,CA,Gunshot,San Berardino County Sheriff's Department,Unknown
+Male,Hispanic/Latino,TX,Gunshot,Ector County Sheriff's Office,Knife
+Male,Black,OK,Gunshot,Lawton Police Department,Unknown
+Male,White,MS,Gunshot,Brookhaven Police Department,Firearm
+Male,White,GA,Gunshot,Emerson Police Department,Firearm
+Male,Hispanic/Latino,FL,Gunshot,Miami-Dade Police Department,Firearm
+Female,White,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+Male,Black,AL,Gunshot,"Conecuh County Sheriff's Office, Alabama Department of Public Safety",Firearm
+Male,Black,OH,Gunshot,Columbus Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Indio Police Department,Vehicle
+Male,Unknown,CA,Gunshot,Seaside Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,San Francisco Police Department,Firearm
+Male,White,OH,Gunshot,"Parma Police Deparment, Parma Heighs Police Department, Brooklyn Police Department",Non-lethal firearm
+Male,Black,TX,Gunshot,Houston Police Department,Firearm
+Male,White,WA,Gunshot,Kirkland Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,No
+Male,White,TX,Gunshot,Houston Police Department,Firearm
+Female,White,CA,Gunshot,Riverside County Sheriff's Department,Firearm
+Male,Black,MS,Gunshot,Columbus Police Department,Disputed
+Male,Hispanic/Latino,CA,Gunshot,Modesto Police Department,Non-lethal firearm
+Male,Black,PA,Gunshot,York Police Department,Knife
+Male,Black,VA,Gunshot,Richmond Police Department,No
+Male,Black,FL,Gunshot,Palm Beach Gardens Police Department,Firearm
+Male,Black,CA,Gunshot,US Immigration and Customs Enforcement,No
+Male,White,CA,Gunshot,Fresno Police Department,Unknown
+Male,Hispanic/Latino,CA,Struck by vehicle,Los Angeles County Sheriff's Department,No
+Female,White,FL,Gunshot,Collier County Sheriff's Office,Firearm
+Male,Black,CA,Gunshot,Los Angeles County Sheriff's Department,Vehicle
+Male,White,KY,Gunshot,Jeffersontown Police Department,Non-lethal firearm
+Male,Black,CA,Gunshot,San Diego Police Department,Non-lethal firearm
+Male,White,LA,Gunshot,St Tammany Parish Sheriff's Office,Knife
+Male,White,IA,Gunshot,Cedar Rapids Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,US Customs and Border Protection,Knife
+Male,White,NM,Gunshot,Sierra County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Tulare County Sheriff's Department,No
+Male,White,MI,Gunshot,Kentwood Police Department,Firearm
+Male,Black,LA,Gunshot,Shreveport Police Department,Knife
+Male,Black,CA,Gunshot,Sacramento County Sheriff's Department,Firearm
+Male,White,KY,Gunshot,Kentucky State Police,Unknown
+Male,Black,FL,Gunshot,Cape Coral Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,California Highway Patrol,Firearm
+Male,White,WI,Gunshot,Kenosha County Sheriff's Department,Firearm
+Male,White,AK,Gunshot,Alaska State Troopers,Unknown
+Male,Black,CA,Gunshot,Cathedral City Police Department,Unknown
+Male,White,GA,Gunshot,Pickens County Sheriff's Office,Firearm
+Male,White,OH,Gunshot,Muskingum County Sheriff's Office,Firearm
+Male,Asian/Pacific Islander,FL,Gunshot,Tampa Police Department,No
+Male,Black,MD,Gunshot,Maryland State Police,Unknown
+Female,Black,DC,Gunshot,Washington Metropolitan Police Department,Firearm
+Male,Hispanic/Latino,PA,Taser,Southeastern Pennsylvania Transportation Authority Police Department,No
+Male,Black,GA,Gunshot,Savannah-Chatham Metropolitan Police Department,Firearm
+Male,Black,CA,Gunshot,San Diego Harbor Police Department,No
+Male,White,MS,Gunshot,Monroe County Sheriff's Office,Firearm
+Male,Black,OK,Gunshot,Midwest City Police Department,Firearm
+Male,Black,LA,Taser,Baton Rouge Police Department,No
+Male,Hispanic/Latino,TX,Taser,Corpus Christi Police Department,No
+Male,White,KS,Taser,Osage County Sheriff's Office,No
+Male,White,OR,Gunshot,Unknown,Firearm
+Male,Black,FL,Gunshot,Jacksonville Sheriff's Office,Firearm
+Male,Hispanic/Latino,TX,Gunshot,"Mesquite Police Department, Texas Department of Public Safety",Firearm
+Male,White,KY,Gunshot,"Kentucky State Police, United States Marshals Service",Firearm
+Male,Black,OH,Gunshot,Columbus Division of Police,Firearm
+Male,Black,TX,Gunshot,Houston Police Department,Firearm
+Male,White,OR,Gunshot,Oregon State Police,Firearm
+Male,White,OK,Gunshot,Cherokee County Sheriff's Office,Knife
+Male,White,FL,Gunshot,Dixie County Sheriff's Office,Unknown
+Male,White,CO,Gunshot,Colorado Springs Police Department,Firearm
+Male,Black,AL,Gunshot,Opelika Police Department,Firearm
+Male,White,MN,Gunshot,"Hutchinson Police Department, McLeod County Sheriff's Office, Minnesota State Patrol",Unknown
+Male,White,CA,Gunshot,California Highway Patrol,Firearm
+Male,White,ID,Gunshot,Adams County Sheriff's Office,Firearm
+Male,Black,DC,Gunshot,"Prince George's County Police Department, Forest Heights Police Department",Firearm
+Male,White,MO,Gunshot,Springfield Police Department,Firearm
+Male,Black,TX,Gunshot,Houston Police Department,Firearm
+Male,Arab-American,CA,Gunshot,University of California Police Department,Unknown
+Male,White,CA,Gunshot,San Diego Police Department,No
+Male,White,MO,Gunshot,"Lakeshire Police Department, St Louis County Police Department",Other
+Female,White,SC,Gunshot,Berkeley County Sheriff's Office,Firearm
+Male,White,WV,Gunshot,Monongalia County SheriffŠ—Ès Office,Firearm
+Male,White,OK,Gunshot,Skiatook Police Department,Firearm
+Male,White,LA,Gunshot,Ward 2 city marshals,No
+Male,White,OR,Gunshot,Portland Police Bureau,Firearm
+Male,White,NV,Gunshot,Clark County School District Police Department,Vehicle
+Male,White,FL,Gunshot,DeLand Police Department,No
+Male,Black,DC,Death in custody,"Special police, Washington DC",Unknown
+Male,White,OR,Struck by vehicle,Klamath County Sheriff's Office,No
+Female,White,PA,Struck by vehicle,Pennsylvania State Police,No
+Male,Hispanic/Latino,TX,Gunshot,Laredo Police Department,Firearm
+Male,Black,SC,Gunshot,Spartanburg Methodist College Campus Safety Department,Vehicle
+Male,White,NC,Gunshot,Anson County Sheriff's Office,Unknown
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,Unknown
+Male,White,WV,Gunshot,"West Virginia State Police, US Marshals",Firearm
+Male,Hispanic/Latino,NM,Gunshot,Bernalillo County Sheriff's Department,Vehicle
+Male,White,CO,Gunshot,"Colorado State Patrol, Longmont Police Department, Adams County Sheriff's Office",Firearm
+Male,Hispanic/Latino,CA,Gunshot,Chico Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,San Jose Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,San Francisco Police Department,Firearm
+Male,Black,MD,Gunshot,Baltimore Police Department,Firearm
+Male,White,SC,Gunshot,Aiken County Sheriff's Office,Firearm
+Female,White,NJ,Gunshot,New Jersey Department of Corrections,No
+Male,Black,PA,Death in custody,Allegheny County Bureau of Corrections,No
+Male,White,AL,Gunshot,"Albertville Police Department, Marshall County Sheriff's Office",No
+Male,White,TN,Gunshot,"Hohenwald Police Department, Lewis County Sheriff's Department",Firearm
+Male,Hispanic/Latino,CA,Gunshot,Sunnyvale Bureau of Police Services,Knife
+Male,White,GA,Gunshot,Effingham County Sheriff's Office,Firearm
+Male,White,TN,Gunshot,Gibson County Sheriff's Office,Non-lethal firearm
+Male,Hispanic/Latino,CA,Gunshot,Riverside County Sheriff's Department,Unknown
+Male,Hispanic/Latino,CA,Gunshot,Riverside County Sheriff's Department,Other
+Male,White,NC,Gunshot,Harnett County Sheriff's Office,Other
+Male,Black,CA,Gunshot,Oakland Police Department,Non-lethal firearm
+Male,Black,PA,Gunshot,Philadelphia Housing Authority Police Department,Firearm
+Male,White,GA,Gunshot,Whitfield County Sheriff's Office,Vehicle
+Male,White,MT,Gunshot,Beaverhead County Sheriff's Office,Firearm
+Male,Black,MN,Gunshot,Minneapolis Police Department,No
+Male,White,TX,Gunshot,Weatherford Police Department,No
+Male,Black,FL,Gunshot,Miami-Dade Police Department,Firearm
+Male,Black,SC,Gunshot,Cayce Department of Public Safety,Firearm
+Male,Black,FL,Death in custody,Orlando Police Department,Firearm
+Male,White,NJ,Gunshot,Little Egg Harbor Police Department,Knife
+Male,Black,FL,Gunshot,Opa-locka Police Department,Other
+Male,White,GA,Gunshot,Early County Sheriff's Office,No
+Male,Black,TX,Gunshot,Harris County Sheriff's Office,Knife
+Male,Black,MI,Gunshot,Michigan State Police,Firearm
+Male,Black,FL,Gunshot,Manatee County Sheriff's Office,Firearm
+Male,Black,FL,Gunshot,Fort Pierce Police Department,Knife
+Male,Black,DC,Gunshot,Metropolitan Police Department of the District of Columbia,Knife
+Male,Black,CA,Gunshot,San Bernardino County Sheriff's Department,No
+Male,Black,CO,Death in custody,Denver Sheriff Department,No
+Male,White,GA,Gunshot,Paulding County Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Fontana Police Department,Firearm
+Male,White,OK,Gunshot,Colbert Police Department,No
+Male,White,CA,Gunshot,Fontana Police Department,Disputed
+Male,White,GA,Taser,Coweta County SheriffŠ—Ès Department,No
+Male,Hispanic/Latino,CO,Gunshot,Denver Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Corpus Christi Police Department,Knife
+Male,White,NV,Gunshot,Reno Police Department,Firearm
+Male,White,NV,Gunshot,Las Vegas Metropolitan Police Department,Non-lethal firearm
+Male,White,MN,Gunshot,"Columbia Heights Police Department, Fridley Police Department",Non-lethal firearm
+Male,White,OH,Gunshot,Columbus Division of Police,Firearm
+Male,Black,NJ,Gunshot,Camden County Police Department,Firearm
+Male,Unknown,TX,Death in custody,Austin Police Department,No
+Female,White,MO,Gunshot,"Christian County Sheriff's Department, Nixa Police Department",Firearm
+Male,White,AZ,Gunshot,Eagar Police Department,Unknown
+Male,White,MO,Gunshot,Stone County Sheriff's Office,Firearm
+Male,White,TX,Gunshot,Seagoville Police Department,Other
+Male,Hispanic/Latino,CA,Gunshot,Bakersfield Police Department,Firearm
+Male,White,OH,Gunshot,Ohio State Highway Patrol,Firearm
+Male,White,MO,Gunshot,"Dekalb County Sheriff's Department, Missouri State Highway Patrol",Firearm
+Male,Hispanic/Latino,AZ,Gunshot,Maricopa County Sheriff's Office,Firearm
+Male,White,NE,Gunshot,Lincoln Police Department,Firearm
+Male,Asian/Pacific Islander,CO,Gunshot,Aurora Police Department,Other
+Male,Black,GA,Gunshot,Atlanta Police Department,Firearm
+Male,White,ME,Gunshot,Bangor Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles County Sheriff's Department,Firearm
+Male,Asian/Pacific Islander,CA,Gunshot,San Bernardino Police Department,Firearm
+Female,Asian/Pacific Islander,CA,Gunshot,San Bernardino Police Department,Firearm
+Male,Black,CA,Gunshot,San Francisco Police Department,Knife
+Male,White,AZ,Gunshot,Mesa Police Department,Other
+Male,White,NE,Gunshot,Deuel County SheriffŠ—Ès Office,Firearm
+Male,Hispanic/Latino,CO,Gunshot,Denver Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Texas Department of Public Safety,No
+Male,White,FL,Gunshot,Miami Beach Police Department,Other
+Male,Hispanic/Latino,NM,Gunshot,Deming Police Department,Firearm
+Female,White,MO,Gunshot,St Louis County Police Department,Firearm
+Male,White,WA,Gunshot,Seattle Police Department,Firearm
+Male,White,TX,Gunshot,Irving Police Department,Firearm
+Male,White,WI,Gunshot,Neenah Police Department,Firearm
+Male,White,WY,Gunshot,Albany County Sheriff's Office,Knife
+Male,Hispanic/Latino,CA,Gunshot,Indio Police Department,Firearm
+Male,Black,FL,Gunshot,Tallahassee Police Department,Firearm
+Male,Black,NY,Gunshot,New York Police Department,No
+Male,White,MO,Death in custody,St Louis Metropolitan Police Department,No
+Male,White,OK,Gunshot,Sportsmen Acres Police Department,Firearm
+Male,Black,SC,Gunshot,Greenville County Sheriff's Office,Firearm
+Male,White,KY,Gunshot,Grayson County Sheriff's Office,Firearm
+Male,White,CA,Gunshot,Marina Police Department,Knife
+Male,Unknown,CA,Gunshot,Hemet Police Department,Firearm
+Male,White,IN,Gunshot,Indianapolis Metropolitan Police Department,Firearm
+Male,Black,OH,Gunshot,Cleveland Metroparks Ranger Department,Firearm
+Male,White,AZ,Gunshot,"Pima County Sheriff's Department, Pima County Attorney's Office",No
+Male,Black,IN,Gunshot,Indianapolis Metropolitan Police Department,Knife
+Male,Black,CA,Gunshot,Los Angeles County Sheriff's Department,Firearm
+Male,White,PA,Gunshot,Stroud Area Regional Police Department,Firearm
+Male,White,TX,Gunshot,University of North Texas Police Department,Other
+Male,Unknown,CO,Gunshot,Aurora Police Department,Knife
+Male,Hispanic/Latino,CA,Gunshot,San Bernardino Police Department,Knife
+Male,Black,TN,Gunshot,Chattanooga Police Department,Firearm
+Male,White,OK,Gunshot,Healdton Police Department,Other
+Male,Hispanic/Latino,CO,Gunshot,Mountain View Police Department,Firearm
+Female,White,TX,Gunshot,Arlington Police Department,Firearm
+Male,Black,LA,Gunshot,New Orleans Police Department,Firearm
+Male,White,TN,Gunshot,"Milan Police Department, Gibson County Sheriff's Office",Firearm
+Male,White,OH,Gunshot,Pike County Sheriff's Department,No
+Male,White,MD,Gunshot,Baltimore County Police Department,Knife
+Male,Asian/Pacific Islander,WA,Gunshot,Thurston County Sheriff's Office,Knife
+Female,White,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+Male,Hispanic/Latino,NV,Gunshot,Las Vegas Metropolitan Police Department,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Gilroy Police Department,No
+Male,Asian/Pacific Islander,CA,Gunshot,Long Beach Police Department,Knife
+Male,White,WV,Gunshot,Mount Hope Police Department,Firearm
+Male,White,CA,Gunshot,Ventura County Sheriff's Office,Knife
+Male,White,OH,Gunshot,Kent Police Department,Other
+Male,Black,NC,Gunshot,Dallas Police Department,Vehicle
+Male,White,CA,Gunshot,Modesto Police Department,Firearm
+Male,White,MD,Gunshot,Baltimore Police Department,Non-lethal firearm
+Male,White,TN,Gunshot,Knox County Sheriff's Office,Vehicle
+Male,Hispanic/Latino,CA,Gunshot,Los Angeles Police Department,No
+Male,Hispanic/Latino,NM,Gunshot,Taos County Sheriff's Office,Non-lethal firearm
+Male,White,CA,Gunshot,Paradise Police Department,No
+Male,Black,CA,Gunshot,Los Angeles County Sheriff's Department,No
+Male,Hispanic/Latino,CA,Gunshot,Hemet Police Department,Firearm
+Male,Hispanic/Latino,TX,Gunshot,Amarillo Police Department,Firearm
+Male,White,FL,Gunshot,Volusia County Sheriff's Office,Firearm
+Male,Black,LA,Gunshot,St Martin Parish Sheriff's Office,No
+Male,Black,GA,Gunshot,Douglas County Sheriff's Office,Disputed
+Male,Black,CO,Gunshot,Aurora Police Department,Vehicle
+Male,Unknown,KY,Gunshot,Ludlow Police Department,Firearm
+Male,White,PA,Gunshot,Pennsylvania State Police,Firearm
+Male,White,FL,Gunshot,Hernando County Sheriff's Office,Firearm
+Male,Hispanic/Latino,NM,Gunshot,Albuquerque Police Department,Firearm
+Male,White,VT,Gunshot,"Vermont State Police, Drug Enforcement Administration",Firearm
+Male,Black,DC,Gunshot,Baltimore County Police Department,Knife
+Male,Black,MI,Gunshot,Dearborn Police Department,No
+Male,White,CA,Gunshot,Unknown,Firearm
+Male,Black,NC,Gunshot,Charlotte-Mecklenburg Police Department,Firearm
+Male,White,LA,Gunshot,Franklin Parish Sheriff's Office,No
+Male,Unknown,LA,Gunshot,East Baton Rouge Sheriff's Office,Firearm
+Male,Hispanic/Latino,CA,Gunshot,Porterville Police Department,Knife
+Male,Black,MI,Gunshot,Lansing Police Department,Firearm
+Male,White,CA,Gunshot,Palo Alto Police Department,Knife
+Female,Black,IL,Gunshot,Chicago Police Department,No
+Male,Black,IL,Gunshot,Chicago Police Department,Other
+Male,White,AZ,Gunshot,Phoenix Police Department,Other
+Male,White,MS,Gunshot,George County Sheriff's Office,Unknown
+Male,White,AZ,Gunshot,Tempe Police Dpeartment,Knife
+Male,White,VA,Gunshot,Suffolk Police Department,Non-lethal firearm
+Male,Black,TX,Gunshot,Houston Police Department,Firearm
+Male,Unknown,GA,Gunshot,Hall County Sheriff's Department,Firearm
+Female,Unknown,CA,Gunshot,Merced County Sheriff's Department,Knife
+Male,Unknown,WA,Death in custody,Seattle Police Department,No
+Male,White,FL,Taser,Jacksonville Sheriff's Office,No
+Male,Asian/Pacific Islander,CA,Gunshot,Los Angeles Police Department,Unknown
+Male,Hispanic/Latino,CA,Gunshot,Fresno Police Department,Knife
+Male,Hispanic/Latino,CO,Struck by vehicle,Weld County Sheriff's Office,No
+Male,Black,NV,Gunshot,Las Vegas Metropolitan Police Department,No
+Male,White,WY,Gunshot,Rawlins Police Department,Unknown
+Male,Black,IL,Gunshot,Chicago Police Department,Firearm
+Male,Hispanic/Latino,ID,Gunshot,"Homedale Police Department, Owyhee County Sheriff's Office",Firearm
+Male,Black,PA,Gunshot,Pittsburgh Bureau of Police,Firearm
+Male,Black,DE,Taser,Delaware State Police,Firearm
+Male,White,CA,Struck by vehicle,Kern County Sheriff's Office,No
+Male,White,CO,Gunshot,Colorado Springs Police Department,Non-lethal firearm
+Male,White,TX,Gunshot,"Leon County Sheriff's Office, Texas Department of Public Safety",Vehicle
+Male,Hispanic/Latino,TX,Gunshot,Jal Police Department,Unknown
+Male,Black,OH,Gunshot,Richmond Heights Police Department,Firearm
+Male,Black,DC,Death in custody,"Special police, Washington DC",No
+Male,White,TX,Taser,Austin Police Department,No
+Male,Black,NJ,Death in custody,Trenton Police Department,No
+Male,White,NY,Gunshot,New Paltz Police Department,Firearm
+Male,Black,TX,Death in custody,Lubbock Police Department,No
+Male,White,CA,Death in custody,Victor Valley College Police Department,No
+Male,White,NY,Taser,Carmel Police Department,No
